@@ -1,8 +1,5 @@
 - links:
 - links:
-  - name: Login
-    link: /
-    new_window: true
   - name: Docs
     link: /
     new_window: true
