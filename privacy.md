@@ -90,7 +90,7 @@ To exercise any of these rights, please contact us at: **support@broadmind.com**
 You may opt out of receiving promotional emails by:
 
 - Clicking the “Unsubscribe” link in any of our marketing emails
-- Contacting us at **[Insert Contact Email]**
+- Contacting us at **support@broadmind.com**
 
 Please note that even after opting out, you may still receive transactional or account-related communications.
 
